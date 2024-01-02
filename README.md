@@ -16,30 +16,23 @@
 - HTML, CSS, Javascript
 - MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
 - Styling (Tailwindcss, Material-UI,  Bootstrap, Sass, Styled components)
-)
 - Shopify React-Node Applications
 - Shopify Billing API (Payments)
 - Databases (MySQL, MongoDB, PostgreSQL)
 - Project Management (git, Github, Jira, Team Foundation Service)
 - Deployment (Vercel, Heroku, Netlify)
-- Development Tools ( Visual Studio, VS Code, Postman, 
-
-
-
+- Development Tools ( Visual Studio, VS Code, Postman)
 <br/>
 
 
 ## Connect with me:
 <p align="left">
 
-<a href="mailto:komalraza258@gmail.com"><img alt="Gmail" src=" https://icons8.com/icon/P7UIlhbpWzZm/gmail" /></a>
+<a href="mailto:komalraza258@gmail.com"><img alt="Gmail" src="https://img.icons8.com/fluent/48/000000/gmail.png" /></a>
 <a href = "https://www.linkedin.com/in/komal-raza/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/razaa_komal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
-
 </p>
-
-
 
 <h6 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h6>
 
