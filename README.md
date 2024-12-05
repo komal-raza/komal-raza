@@ -1,42 +1,36 @@
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Komal Raza</h1>
-<h3 align="center">I'm a passionate Full Stack Developer 👩‍💻 </h3>
+<h3 align="center">I'm a passionate Full Stack Developer </h3>
 
 
-## 👩 About Me
-<!-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
-<!-- - 🔭 I’m currently working on **<img src="./react.png"/>** -->
-
-- 🎓 Graduated in BS- Computer Science
-- 📫 How to reach me **komalraza258@gmail.com**
-- ⚡ Fun fact **I love coding and I'm a quick learner.**
-
-## 🚀 Technologies I know
-
-- HTML, CSS, Javascript
-- MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
-- Styling (Tailwindcss, Material-UI,  Bootstrap, Sass, Styled components)
-- Shopify React-Node Applications
-- Shopify Billing API (Payments)
-- Databases (MySQL, MongoDB, PostgreSQL)
-- Project Management (git, Github, Jira, Team Foundation Service)
-- Deployment (Vercel, Heroku, Netlify)
-- Development Tools ( Visual Studio, VS Code, Postman)
-<br/>
+![Komal_Raza_Banner](https://github.com/user-attachments/assets/e389d063-9d27-497a-8da9-00572a6fd979)
 
 
-## Connect with me:
-<p align="left">
 
-<a href="mailto:komalraza258@gmail.com"><img alt="Gmail" src="https://img.icons8.com/fluent/48/000000/gmail.png" /></a>
-<a href = "https://www.linkedin.com/in/komal-raza/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/razaa_komal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+I'm Komal Raza and I'm a Web Developer from Pakistan, right now **looking for a remote job** with ReactJS/Node.js and TypeScript.
 
-</p>
+## About me
+* I'm a JavaScript expert and currently mastering ReactJS, NodeJS, TypeScript and NextJS.
 
-<h6 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h6>
 
-⭐️ From [komalraza](https://github.com/komal-raza)
+## Tech stack
+I work with:<br/>
+[![JavaScript, TypeScript, HTML, CSS, React, Redux, RegExp, Web Workers, Emotion, Linux, Bash, Git, Vite, Webpack, MySQL,, GraphQL, Prisma, Next, GitHub, Vercel](https://skillicons.dev/icons?i=js,typescript,html,css,svg,react,redux,regex,workers,emotion,linux,bash,git,vite,webpack,mysql,graphql,prisma,next,github,vercel&perline=6)](https://skillicons.dev)
+
+I also know:<br/>
+[![NodeJS](https://skillicons.dev/icons?i=nodejs,sass)](https://skillicons.dev)
+
+
+## Social Links
+
+[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/github.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/github.svg?color=black&height=40'><img alt='github logo' src='https://api.iconify.design/simple-icons/github.svg?color=black&height=40' height='40'></picture>](https://github.com/komal-raza)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/linkedin.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=40'><img alt='linkedin logo' src='https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=40' height='40'></picture>](https://www.linkedin.com/in/komal-raza/)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/twitter.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/twitter.svg?color=black&height=40'><img alt='twitter logo' src='https://api.iconify.design/simple-icons/twitter.svg?color=black&height=40' height='40'></picture>](https://twitter.com/_komalraza)&nbsp; &nbsp;
+
+## Software I use
+
+
+![GNU/Linux](https://img.shields.io/badge/GNU%2fLinux-404040.svg?style=for-the-badge&logo=linux&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-C45E00.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 
 
