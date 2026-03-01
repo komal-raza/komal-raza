@@ -1,36 +1,64 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Komal Raza</h1>
-<h3 align="center">I'm a passionate Full Stack Developer </h3>
+<h1 align="center">Hi, I'm Komal Raza 👋</h1>
+<h3 align="center">Full-Stack Engineer | Shopify App Developer</h3>
 
+<p align="center">
+Building scalable Shopify apps and SaaS products with React, Node.js, and PostgreSQL
+</p>
 
-![Komal_Raza_Banner](https://github.com/user-attachments/assets/e389d063-9d27-497a-8da9-00572a6fd979)
+---
 
+### 👩‍💻 About Me
 
+I’m a full-stack software engineer with 2.5+ years of experience building production-ready Shopify applications and SaaS platforms.
 
-I'm Komal Raza and I'm a Web Developer from Pakistan, right now **looking for a remote job** with ReactJS/Node.js and TypeScript.
+My work focuses on developing public and custom Shopify apps, subscription-based systems, analytics dashboards, and scalable backend services. I’ve worked on both Shopify App Store products and private client applications, helping merchants solve real business problems through clean, reliable software.
 
-## About me
-* I'm a JavaScript expert and currently mastering ReactJS, NodeJS, TypeScript and NextJS.
+Most of my professional work lives in private repositories due to client and company policies. This profile highlights my ongoing learning, architectural thinking, and selected public demos.
 
+---
 
-## Tech stack
-I work with:<br/>
-[![JavaScript, TypeScript, HTML, CSS, React, Redux, RegExp, Web Workers, Emotion, Linux, Bash, Git, Vite, Webpack, MySQL,, GraphQL, Prisma, Next, GitHub, Vercel](https://skillicons.dev/icons?i=js,typescript,html,css,svg,react,redux,regex,workers,emotion,linux,bash,git,vite,webpack,mysql,graphql,prisma,next,github,vercel&perline=6)](https://skillicons.dev)
+### 🛠 Tech Stack
 
-I also know:<br/>
-[![NodeJS](https://skillicons.dev/icons?i=nodejs,sass)](https://skillicons.dev)
+**Frontend**
+- React, Next.js
+- Tailwind CSS, Shopify Polaris
 
+**Backend**
+- Node.js, Express.js
+- REST APIs
 
-## Social Links
+**Databases**
+- PostgreSQL, MongoDB
 
-[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/github.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/github.svg?color=black&height=40'><img alt='github logo' src='https://api.iconify.design/simple-icons/github.svg?color=black&height=40' height='40'></picture>](https://github.com/komal-raza)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/linkedin.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=40'><img alt='linkedin logo' src='https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=40' height='40'></picture>](https://www.linkedin.com/in/komal-raza/)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/twitter.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/twitter.svg?color=black&height=40'><img alt='twitter logo' src='https://api.iconify.design/simple-icons/twitter.svg?color=black&height=40' height='40'></picture>](https://twitter.com/_komalraza)&nbsp; &nbsp;
+**Shopify**
+- Custom & Public Shopify Apps
+- Shopify Admin APIs
+- Shopify Billing & Webhooks
+- Theme App Extensions
 
-## Software I use
+**SaaS & Integrations**
+- Stripe Subscriptions
+- Analytics & Admin Dashboards
 
+**Developer Tools**
+- Git, GitHub
+- Linux
+- Postman
 
-![GNU/Linux](https://img.shields.io/badge/GNU%2fLinux-404040.svg?style=for-the-badge&logo=linux&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-C45E00.svg?style=for-the-badge&logo=git&logoColor=white)
+---
 
+### 📌 What I’m Currently Working On
 
+- Deepening Shopify theme customization skills (Liquid, sections, metafields)
+- Building a Saas Platform For Leoatech
+- Improving system design and backend scalability knowledge
+- Exploring headless Shopify concepts and modern storefront architectures
 
+---
 
+### 🔗 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/komal-raza
+- 🌐 Portfolio:https://v0-komal-raaza.vercel.app/
+- 📫 Email: komalraza258@gmail.com
 
