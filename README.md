@@ -7,7 +7,7 @@
 <p align="center"><span style="font-size:16px; color: #38bdf8;">Senior Full-Stack Engineer | SaaS & Shopify App Developer| Pakistan</span></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&color=c8f03f&lines=Building+scalable+mobile+solutions;4+years+of+hands-on+experience;5%2B+production-ready+apps+delivered" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&color=c8f03f&lines=Building+scalable+solutions;4+years+of+hands-on+experience;5%2B+production-ready+apps+delivered" />
 </p>
 
 <p align="center">
