@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://v0-komal-raaza.vercel.app/">
+  <a href="https://komalraza.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"  />
   </a>
   <a href="https://www.linkedin.com/in/komal-raza">
@@ -59,7 +59,7 @@ Currently, I'm focused on building scalable digital products, improving my syste
 
 Most of my professional work is maintained in private repositories due to client and company policies. My portfolio showcases selected projects and case studies.
 
-**[Explore My Portfolio →](https://v0-komal-raaza.vercel.app/)**
+**[Explore My Portfolio →](https://komalraza.vercel.app/)**
 
 ---
 
@@ -160,7 +160,7 @@ I'm interested in connecting with engineering teams, founders, and developers wo
   <a href="https://www.linkedin.com/in/komal-raza">
     <img src="https://img.shields.io/badge/LinkedIn-Kom​al%20Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://v0-komal-raaza.vercel.app/">
+  <a href="https://komalraza.vercel.app/">
     <img src="https://img.shields.io/badge/Visit-My-Work-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:razaa.komal@gmail.com">
